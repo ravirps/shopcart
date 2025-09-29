@@ -31,8 +31,8 @@ A modern e-commerce web application built with Next.js 14, TypeScript, and Tailw
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd ecommerce-app
+   git clone https://github.com/ravirps/shopcart.git
+   cd shopcart
    ```
 
 2. **Install dependencies**
