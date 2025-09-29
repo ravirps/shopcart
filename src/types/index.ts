@@ -20,6 +20,13 @@ export interface CartItem {
   thumbnail: string;
 }
 
+export interface AddToCartItem {
+  id: number;
+  title: string;
+  price: number;
+  thumbnail: string;
+}
+
 export interface ProductsResponse {
   products: Product[];
   total: number;
